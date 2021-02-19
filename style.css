@@ -1,1 +1,26 @@
 
+body {
+    background-color:rgb(238, 222, 197);
+}
+
+nav {
+    flex-grow: initial;
+    font-size: 20pt;
+    font-weight: bolder;
+    -moz-text-decoration-color: khaki;
+    opacity: 70%;
+}
+
+html,body,h1,h2,h3,h4,h5,h6 {
+    font-family: "Roboto", sans-serif
+}
+
+.card-name {
+    background-color: oldlace;
+}
+
+.card-info {
+    background-color: oldlace;
+    background-blend-mode: overlay;
+    padding: 10%;
+}
