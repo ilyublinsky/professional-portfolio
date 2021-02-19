@@ -13,11 +13,6 @@
 * [Resume](https://ilyublinsky.github.io/Resume/)
 * [LinkedIn](https://www.linkedin.com/in/ingrid-lyublinsky/)
 
-* [Professional Portfolio](https://ilyublinsky.github.io/professional-portfolio/)
-* [GitHub](https://github.com/ilyublinsky)
-* [LinkedIn](https://www.linkedin.com/in/ingrid-lyublinsky/)
-
-
 
 ## Demo
 
