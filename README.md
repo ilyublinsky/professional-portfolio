@@ -7,7 +7,7 @@
 
 ## Links
 
-* [Professional Portfolio](#[https://ilyublinsky.github.io/professional-portfolio/](https://ilyublinsky.github.io/professional-portfolio/))
+* [Professional Portfolio](#https://ilyublinsky.github.io/professional-portfolio/)
 * [GitHub](#https://github.com/ilyublinsky)
 * [Resume](#https://ilyublinsky.github.io/Resume/)
 * [LinkedIn](#https://www.linkedin.com/in/ingrid-lyublinsky/)
@@ -15,7 +15,7 @@
 
 ## Demo
 
-![Demo](demo-shot.jpg)
+[Demo](#demo-shot.jpg)
 
 
 ## Credits
