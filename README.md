@@ -16,7 +16,7 @@
 
 ## Demo
 
-[Screenshot](demo-shot.jpg)
+![Screenshot](demo-shot.jpg)
 
 
 ## Credits
