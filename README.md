@@ -21,7 +21,7 @@
 
 ## Demo
 
-![Demo](#professional-portfolio/demo-shot.jpg)
+[Demo](demo-shot.jpg)
 
 
 ## Credits
