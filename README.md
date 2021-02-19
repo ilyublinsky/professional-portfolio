@@ -7,10 +7,10 @@
 
 ## Links
 
-* ![Professional Portfolio](#[https://ilyublinsky.github.io/professional-portfolio/](https://ilyublinsky.github.io/professional-portfolio/))
-* ![GitHub](#https://github.com/ilyublinsky)
-* ![Resume](#https://ilyublinsky.github.io/Resume/)
-* ![LinkedIn](#https://www.linkedin.com/in/ingrid-lyublinsky/)
+* [Professional Portfolio](https://ilyublinsky.github.io/professional-portfolio/)
+* [GitHub](https://github.com/ilyublinsky)
+* [Resume](https://ilyublinsky.github.io/Resume/)
+* [LinkedIn](https://www.linkedin.com/in/ingrid-lyublinsky/)
 
 
 ## Demo
@@ -20,7 +20,7 @@
 
 ## Credits
 
-* ![Bootstrap](#https://getbootstrap.com/)
-* ![FontAwesome](#https://fontawesome.com/icons?d=gallery)
-* ![W3Schools](#https://www.w3schools.com/)
-* ![Google Fonts](#https://fonts.googleapis.com/)
+* [Bootstrap](https://getbootstrap.com/)
+* [FontAwesome](https://fontawesome.com/icons?d=gallery)
+* [W3Schools](https://www.w3schools.com/)
+* [Google Fonts](https://fonts.googleapis.com/)
