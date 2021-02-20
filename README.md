@@ -7,15 +7,27 @@
 
 ## Links
 
+<<<<<<< HEAD
 * [Professional Portfolio](#https://ilyublinsky.github.io/professional-portfolio/)
 * [GitHub](#https://github.com/ilyublinsky)
 * [Resume](#https://ilyublinsky.github.io/Resume/)
 * [LinkedIn](#https://www.linkedin.com/in/ingrid-lyublinsky/)
+=======
+
+* [Professional Portfolio](https://ilyublinsky.github.io/professional-portfolio/)
+* [GitHub](https://github.com/ilyublinsky)
+* [Resume](https://ilyublinsky.github.io/Resume/)
+* [LinkedIn](https://www.linkedin.com/in/ingrid-lyublinsky/)
+>>>>>>> bf9f9b3374ccd0907772085384a92359d078d952
 
 
 ## Demo
 
+<<<<<<< HEAD
 [Screenshot](demo-shot.jpg)
+=======
+![Screenshot](demo-shot.jpg)
+>>>>>>> bf9f9b3374ccd0907772085384a92359d078d952
 
 
 ## Credits
